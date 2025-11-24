@@ -21,6 +21,14 @@ seoSecondaryKeywords:
   - media influence
   - textual analysis
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post is focused on analyzing media coverage data related to the Parkland shooting event using
+  textual data analysis techniques, including consideration of time series and volume of news
+  articles. This matches the datascience family's description of data analysis projects and scripts
+  for economic and scientific data workflows, despite the analysis being mostly manual and
+  qualitative.
 ---
 
 # Media and Policy: An Analytical Reference
@@ -58,3 +66,4 @@ For developers or analysts returning to this project, the key takeaway is the ne
 - Expanding the scope to include sentiment analysis or discourse framing.
 
 This project serves as a foundational reference point for understanding the complexities of media influence on policy through the lens of a specific, high-impact event.
+
