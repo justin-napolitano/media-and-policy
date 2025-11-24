@@ -1,12 +1,27 @@
 ---
-slug: "github-media-and-policy"
-title: "media-and-policy"
-repo: "justin-napolitano/media-and-policy"
-githubUrl: "https://github.com/justin-napolitano/media-and-policy"
-generatedAt: "2025-11-23T09:18:08.738063Z"
-source: "github-auto"
+slug: github-media-and-policy
+title: Analyzing Media Coverage and Policy Impact After the Parkland Shooting
+repo: justin-napolitano/media-and-policy
+githubUrl: https://github.com/justin-napolitano/media-and-policy
+generatedAt: '2025-11-23T09:18:08.738063Z'
+source: github-auto
+summary: >-
+  Examination of media article volume and timing related to the Parkland shooting to understand
+  media influence on gun control policy debates.
+tags:
+  - media-analysis
+  - policy-analysis
+  - textual-data
+  - gun-control
+  - news-coverage
+seoPrimaryKeyword: media coverage analysis
+seoSecondaryKeywords:
+  - Parkland shooting
+  - gun control policy
+  - media influence
+  - textual analysis
+seoOptimized: true
 ---
-
 
 # Media and Policy: An Analytical Reference
 
