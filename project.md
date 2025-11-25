@@ -1,20 +1,30 @@
 ---
 slug: github-media-and-policy
 id: github-media-and-policy
-title: media-and-policy
+title: Media Coverage Analysis of the Parkland Shooting Event
 repo: justin-napolitano/media-and-policy
 githubUrl: https://github.com/justin-napolitano/media-and-policy
 generatedAt: '2025-11-24T21:35:37.537Z'
 source: github-auto
 summary: >-
-  This repository contains a textual analysis focused on media coverage and gun
-  control policy, specifically centered on the Parkland shooting event of
-  February 14, 2018. The project aggregates and summarizes media data to explore
-  the political and social responses following the incident.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a textual analysis of media coverage related to the Parkland shooting
+  and its impact on gun control policy.
+tags:
+  - textual analysis
+  - media coverage
+  - gun control
+  - NexisUni
+  - data aggregation
+  - sentiment analysis
+  - topic modeling
+seoPrimaryKeyword: media coverage analysis
+seoSecondaryKeywords:
+  - Parkland shooting analysis
+  - gun control policy data
+  - news article filtering
+  - media trends visualization
+  - text data analysis
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
