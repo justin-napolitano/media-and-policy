@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/media-and-policy
 generatedAt: '2025-11-24T21:35:37.537Z'
 source: github-auto
 summary: >-
-  Explore a textual analysis of media coverage related to the Parkland shooting
-  and its impact on gun control policy.
+  Explore a textual analysis of media coverage related to the Parkland shooting and its impact on
+  gun control policy.
 tags:
   - textual analysis
   - media coverage
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - media trends visualization
   - text data analysis
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -78,4 +78,5 @@ media-and-policy/
 - Conduct quantitative sentiment or topic modeling analysis
 - Create visualizations to illustrate media coverage trends over time
 - Publish findings in a more structured format such as a research paper or interactive dashboard
+
 
