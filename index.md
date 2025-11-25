@@ -1,34 +1,46 @@
 ---
 slug: github-media-and-policy
-title: Analyzing Media Coverage and Policy Impact After the Parkland Shooting
+title: Analyzing Media Coverage of Gun Control Policy Post-Parkland
 repo: justin-napolitano/media-and-policy
 githubUrl: https://github.com/justin-napolitano/media-and-policy
 generatedAt: '2025-11-23T09:18:08.738063Z'
 source: github-auto
 summary: >-
-  Examination of media article volume and timing related to the Parkland shooting to understand
-  media influence on gun control policy debates.
+  This project analyzes media coverage and its impact on gun control policy
+  following the Parkland shooting, focusing on data collection and analysis
+  methods.
 tags:
   - media-analysis
   - policy-analysis
   - textual-data
   - gun-control
   - news-coverage
-seoPrimaryKeyword: media coverage analysis
-seoSecondaryKeywords:
-  - Parkland shooting
-  - gun control policy
-  - media influence
+  - media analysis
+  - gun control
+  - NexisUni
   - textual analysis
+  - natural language processing
+  - data processing
+  - political discourse
+seoPrimaryKeyword: media coverage analysis gun control
+seoSecondaryKeywords:
+  - Parkland shooting media
+  - political commentary analysis
+  - data collection methods
+  - textual data analysis
+  - NLP in media studies
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post is focused on analyzing media coverage data related to the Parkland shooting event using
-  textual data analysis techniques, including consideration of time series and volume of news
-  articles. This matches the datascience family's description of data analysis projects and scripts
-  for economic and scientific data workflows, despite the analysis being mostly manual and
+  The post is focused on analyzing media coverage data related to the Parkland
+  shooting event using textual data analysis techniques, including consideration
+  of time series and volume of news articles. This matches the datascience
+  family's description of data analysis projects and scripts for economic and
+  scientific data workflows, despite the analysis being mostly manual and
   qualitative.
+kind: project
+id: github-media-and-policy
 ---
 
 # Media and Policy: An Analytical Reference
